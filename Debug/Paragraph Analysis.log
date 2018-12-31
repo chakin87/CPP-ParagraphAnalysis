@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\cpp\csc125\paragraph analysis\paragraph analysis\source\main.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\cpp\csc125\paragraph analysis\paragraph analysis\source\main.cpp(236): warning C4018: '<': signed/unsigned mismatch
+  Paragraph Analysis.vcxproj -> C:\CPP\CSC125\Paragraph Analysis\Debug\Paragraph Analysis.exe
